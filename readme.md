@@ -1,4 +1,4 @@
-<h1 align="center"> Login Blur </h1>
+<h1 align="center"> Login Blur Form </h1>
 
 <p align="center">
 Login de formulário animado 
@@ -20,5 +20,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
 - Git e Github
-- Preview do Projeto - 🚀
+- Preview do Projeto - 🚀 https://rodrigo-dev7.github.io/mylogin-blur/
 
